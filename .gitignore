@@ -68,7 +68,7 @@ logs/
 .idea/*
 
 # vscode files
-# .vscode/*
+.vscode/*
 
 # Config file
 config.ini
